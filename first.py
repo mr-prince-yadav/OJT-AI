@@ -1,0 +1,1 @@
+print("Hello to AI-OJT, this is the first file")
