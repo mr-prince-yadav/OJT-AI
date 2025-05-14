@@ -1,4 +1,5 @@
 matplotlib
 # pip install -r .\requirements.txt
 pandas
-pygwwalker
+pygwalker
+missingno
