@@ -1,5 +1,5 @@
 matplotlib
 # pip install -r .\requirements.txt
 pandas
-pygwalker
+numpy
 missingno
