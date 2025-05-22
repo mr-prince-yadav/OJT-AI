@@ -6,3 +6,5 @@ missingno
 dotenv
 streamlit
 seaborn
+scikit-fuzzy
+scikit-learn
