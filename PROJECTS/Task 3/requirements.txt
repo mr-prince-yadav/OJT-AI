@@ -1,0 +1,10 @@
+matplotlib
+# pip install -r .\requirements.txt
+pandas
+numpy
+missingno
+dotenv
+streamlit
+seaborn
+scikit-fuzzy
+scikit-learn
